@@ -216,8 +216,8 @@
 			<div class="main">
 				<header class="codrops-header">
 					<div class="codrops-links">
-						<a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Tutorials/AnimatedAnimals/" title="Previous Demo"><span>Previous Demo</span></a>
-						<a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=26692" title="Back to the article"><span>Back to the Codrops article</span></a>
+						<a class="codrops-icon codrops-icon--prev" href="/" title="Previous Demo"><span>Previous Demo</span></a>
+						<a class="codrops-icon codrops-icon--drop" href="http://nutzindia.com" title="Back to the article"><span>Back to the Codrops article</span></a>
 					</div>
 					<h1>Interactive Mall Map</h1>
 				</header>
