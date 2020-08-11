@@ -272,7 +272,7 @@
 								<polygon points="561.3,603.9 624,777 661.9,763.2 597.7,591.5" class="map__space" />
 							</svg>
 							<div class="level__pins">
-								<a class="pin pin--1-1" href="<?php echo $base_url; ?>stall" aria-label="Pin for Apple Heart">
+								<a class="pin pin--1-1" data-category="1" data-space="1.01" href="<?php echo $base_url; ?>stall">
 									<span class="pin__icon">
 										<svg class="icon icon--pin"><use xlink:href="#icon-pin"></use></svg>
 										<svg class="icon icon--logo icon--appleheart"><use xlink:href="#icon-appleheart"></use></svg>
