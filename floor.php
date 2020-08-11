@@ -7,8 +7,7 @@
 		<title>Block A</title>
 		<meta name="description" content="An Virtual MALL 3D mall map concept ." />
 		<meta name="keywords" content="mall map, 3d, css, javascript, pin, levels, floor map" />
-		<meta name="author" content="Codrops" />
-		<link rel="shortcut icon" href="favicon.ico">
+		<meta name="author" content="Codrops" />		<link rel="shortcut icon" href="https://nutzindia.com/assets/img/favicon.ico">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url; ?>css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url; ?>css/style.css" />
 		<script src="<?php echo $base_url; ?>js/modernizr-custom.js"></script>
@@ -219,7 +218,7 @@
 						<a class="codrops-icon codrops-icon--prev" href="/" title="Previous Demo"><span>Previous</span></a>
 						<a class="codrops-icon" href="http://nutzindia.com" title="Back to the article"><img src="https://nutzindia.com/assets/img/favicon.ico" height="15"><span>We Nutzindia</span></a>
 					</div>
-					<h1>Virtual MALL Map</h1>
+					<h1>Virtual Mall Map</h1>
 				</header>
 				<div class="mall">
 					<div class="surroundings">
