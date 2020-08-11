@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Block A</title>
-		<meta name="description" content="An interactive 3D mall map concept with a search and pin indicators for every level. " />
+		<meta name="description" content="An Virtual MALL 3D mall map concept ." />
 		<meta name="keywords" content="mall map, 3d, css, javascript, pin, levels, floor map" />
 		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="favicon.ico">
@@ -219,7 +219,7 @@
 						<a class="codrops-icon codrops-icon--prev" href="/" title="Previous Demo"><span>Previous Demo</span></a>
 						<a class="codrops-icon codrops-icon--drop" href="http://nutzindia.com" title="Back to the article"><span>Back to the Codrops article</span></a>
 					</div>
-					<h1>Interactive Mall Map</h1>
+					<h1>Virtual MALL Map</h1>
 				</header>
 				<div class="mall">
 					<div class="surroundings">
