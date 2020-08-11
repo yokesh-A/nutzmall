@@ -152,7 +152,7 @@ button:focus {
 	top: 0;
 	left: 0;
 	overflow: hidden;
-	width: calc(100vw - 300px);
+	width: 100vw;
 	height: 100vh;
 }
 
@@ -608,6 +608,7 @@ button:focus {
 	width: 300px;
 	min-height: 100vh;
 	padding: 5em 0 1em;
+	display: none;
 	background: #fff;
 }
 
@@ -616,6 +617,7 @@ button:focus {
 	z-index: 100;
 	top: 0;
 	right: 0;
+	display:none;
 	left: calc(100vw - 300px);
 }
 
