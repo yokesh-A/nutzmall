@@ -263,19 +263,19 @@ button:focus {
 }
 
 .level--1::after {
-	content: 'L1';
+	content: 'Floor 1';
 }
 
 .level--2::after {
-	content: 'L2';
+	content: 'Floor 2';
 }
 
 .level--3::after {
-	content: 'L3';
+	content: 'Floor 3';
 }
 
 .level--4::after {
-	content: 'L4';
+	content: 'Floor 4';
 }
 
 .level:not(:first-child) {
