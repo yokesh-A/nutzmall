@@ -2,4 +2,4 @@
 git add .
 git commit -am "yokesh"
 git push cpanel
-git push origin
+::git push origin
