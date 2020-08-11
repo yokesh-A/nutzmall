@@ -216,8 +216,8 @@
 			<div class="main">
 				<header class="codrops-header">
 					<div class="codrops-links">
-						<a class="codrops-icon codrops-icon--prev" href="/" title="Previous Demo"><span>Previous Demo</span></a>
-						<a class="codrops-icon codrops-icon--drop" href="http://nutzindia.com" title="Back to the article"><span>Back to the Codrops article</span></a>
+						<a class="codrops-icon codrops-icon--prev" href="/" title="Previous Demo"><span>Previous</span></a>
+						<a class="codrops-icon" href="http://nutzindia.com" title="Back to the article"><img src="https://nutzindia.com/assets/img/favicon.ico" height="15"><span>We Nutzindia</span></a>
 					</div>
 					<h1>Virtual MALL Map</h1>
 				</header>
@@ -272,7 +272,7 @@
 								<polygon points="561.3,603.9 624,777 661.9,763.2 597.7,591.5" class="map__space" />
 							</svg>
 							<div class="level__pins">
-								<a class="pin pin--1-1" data-category="1" data-space="1.01" href="<?php echo $base_url; ?>stall">
+								<a class="pin pin--1-1" data-category="1" data-space="1.01" onclick="window.location.href='<?php echo $base_url; ?>stall'">
 									<span class="pin__icon">
 										<svg class="icon icon--pin"><use xlink:href="#icon-pin"></use></svg>
 										<svg class="icon icon--logo icon--appleheart"><use xlink:href="#icon-appleheart"></use></svg>
@@ -560,7 +560,7 @@
 				</nav>
 				<div class="content">
 					<div class="content__item" data-space="1.01" data-category="1">
-						<h3 class="content__item-title">Apple Heart</h3>
+						<h3 class="content__item-title">Apple Heart <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/863px-Apple_logo_black.svg.png" width="30" ></h3>
 						<div class="content__item-details">
 							<p class="content__meta">
 								<span class="content__meta-item"><strong>Opening Hours:</strong> 6:30AM &mdash; 11:30PM</span> 
