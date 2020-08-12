@@ -243,7 +243,7 @@
 <rect x="-4.9" y="0" class="st22" width="1932.6" height="1080"/>
 <g>
 	
-		<image style="overflow:visible;enable-background:new    ;" width="357" height="788" xlink:href="https://yokesh.ml/project/assets/images/y%20logo.png" transform="matrix(0.5789 0 0 0.5789 182.7508 353.0549)">
+		<image style="overflow:visible;enable-background:new    ;" width="357" height="788" xlink:href="img/stall_standee-03.jpg" transform="matrix(0.5789 0 0 0.5789 182.7508 353.0549)">
 	</image>
 	<g>
 		<g>
@@ -912,7 +912,7 @@
 		</g>
 	</g>
 	
-		<image style="overflow:visible;enable-background:new    ;" width="5243" height="2316" xlink:href="https://nutzindia.com/assets/img/portfolio/portfolio-1.jpg" transform="matrix(0.1739 0 0 0.1739 502.9882 207.5785)">
+		<image style="overflow:visible;enable-background:new    ;" width="5243" height="2316" xlink:href="img/stall banner-02.jpg" transform="matrix(0.1739 0 0 0.1739 502.9882 207.5785)">
 	</image>
 </g>
 <g>
