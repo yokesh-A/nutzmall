@@ -1009,7 +1009,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <div class="w3-row-padding w3-section">
 	<div class="w3-col s4">
-		<img class="demo w3-opacity w3-hover-opacity-off" src="img_nature_wide.jpg" style="width:100%;cursor:pointer" onclick="currentDiv(1)">
+		<img class="demo w3-opacity w3-hover-opacity-off" src="stall.php" style="width:100%;cursor:pointer" onclick="currentDiv(1)">
 	</div>
 	<div class="w3-col s4">
 		<img class="demo w3-opacity w3-hover-opacity-off" src="img_snow_wide.jpg" style="width:100%;cursor:pointer" onclick="currentDiv(2)">
