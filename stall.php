@@ -1005,7 +1005,7 @@
 	<path class="st113" d="M1575.2,331.7c0,0.3-0.2,0.1-0.3,0.1c-1,0-2,0-3,0.2c-0.6,0.1-1.1,0.4-1.5,0.7c-0.9,0.6-1.7,1.3-2.6,1.9   c-0.3,0.2-0.5,0.4-0.9,0.4c-1-1-2-2-3.1-3c-0.1-0.1-0.2-0.2-0.1-0.3C1567.5,331.7,1571.3,331.7,1575.2,331.7z"/>
 </g>
 </svg>
-
+<h4>Neighbouring Stall</h4>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <div class="w3-row-padding w3-section">
 	<div class="w3-col s4">
