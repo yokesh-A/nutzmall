@@ -556,6 +556,7 @@ button:focus {
 	opacity: 0;
 	margin: 0 auto;
 	max-width: 50vmax;
+	display:none;
 }
 
 .content__item--current .content__item-details {
